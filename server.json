@@ -1,0 +1,72 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "type": "FISICA",
+      "troll_id": "",
+      "name": "elimar de oliveira",
+      "cpf_cnpj": "312.312.312-31",
+      "rg": "",
+      "email": "",
+      "phone": "",
+      "cellphone": "",
+      "naturalidade": "",
+      "data_nascimento": null,
+      "cep": "",
+      "street": "",
+      "number": "",
+      "district": "",
+      "city": "dasdas",
+      "state": "AL",
+      "complement": "",
+      "workplace": "",
+      "occupation": "",
+      "monthly_income": "",
+      "work_address": "",
+      "work_phone": ""
+    },
+    {
+      "id": 2,
+      "type": "FISICA",
+      "troll_id": "",
+      "name": "joel bleichuvehl",
+      "cpf_cnpj": "056.269.259-29",
+      "rg": "",
+      "email": "joel@cetesc.com.br",
+      "phone": "(49) 3563-7010",
+      "cellphone": "(49) 98891-8004",
+      "naturalidade": "fraiburgo",
+      "data_nascimento": null,
+      "cep": "",
+      "street": "",
+      "number": "",
+      "district": "",
+      "city": "",
+      "state": "",
+      "complement": "",
+      "workplace": "",
+      "occupation": "",
+      "monthly_income": "",
+      "work_address": "",
+      "work_phone": ""
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "album foto",
+      "type": "sadfas",
+      "price": "3"
+    },
+    {
+      "id": 4,
+      "name": "poster",
+      "type": "fsdfsd",
+      "price": "33"
+    }
+  ],
+  "user": [
+    {"login" : "joel@cetesc.com.br", "senha": "xi94fdf0"},
+    {"login" : "elimar@gmail.com.br", "senha": "123456"}
+  ]
+}
